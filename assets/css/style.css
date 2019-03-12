@@ -1,0 +1,39 @@
+.throne{
+    position: fixed;
+    left: 500px;
+    color:goldenrod;
+    
+    
+}
+h2{
+    position: fixed;
+    left: 500px;
+    top: 50px;
+    color: lavenderblush
+}
+#quiz{
+    position: fixed;
+    top: 100px;
+    left:500px;
+    font-weight: bolder;
+    color:red;
+    font-size: 30px
+    /* word-spacing: 50px */
+}
+#submit{
+    position: fixed;
+    top: 600px;
+    left:500px;
+    /* color: goldenrod; */
+}
+#results{
+    position: fixed;
+    top: 700px;
+    left:500px;
+    color: goldenrod;
+    font-size: 24px
+}
+.question{
+    color:goldenrod;
+
+}
